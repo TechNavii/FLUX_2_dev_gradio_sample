@@ -39,3 +39,6 @@ Open the Gradio URL printed in the console (defaults to http://127.0.0.1:7860) a
   pip install -U transformers accelerate huggingface_hub
   ```
 - Gradio schema errors: reinstall the pinned versions in `requirements.txt` (gradio==4.39.0, gradio_client==1.3.0).
+
+## License
+Check FLUX.2[dev] license for details
